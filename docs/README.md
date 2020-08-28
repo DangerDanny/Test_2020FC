@@ -13,7 +13,7 @@ There are a number of enhancements / improvements within the 2021 Commercial for
   - Inclusive of on non-Western built types with Western-built engines, e.g. SSJ, MRJ (SpaceJet), C919, etc.
   - **Excludes** commercial types operated in military service
 
-### Boeing 737 MAX impact:
+### Boeing 737 MAX impact
 
 - Approximately 500 grounded, undelivered aircraft
 
@@ -53,7 +53,7 @@ There are a number of enhancements / improvements within the 2021 Commercial for
     Note: that neither the values nor filters within this tab are connected to other tabs, reports or metrics; this is standalone and provides historical context.
     Note: year 2020 data is forecast/projected
 
-#### MRO Expense Type taxonomy -major re-write:
+#### MRO Expense Type taxonomy -major re-write
 
 - Now includes description - i.e.; ATA 21 Air Conditioning & Pressurization
 
