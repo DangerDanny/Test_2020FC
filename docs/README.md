@@ -29,7 +29,9 @@ There are a number of enhancements / improvements within the 2021 Commercial for
 
 ### MRO Reporting & Data
 
-> Behind the scenes we’ve built-into the source data aircraft age and associated it to MRO demand per aircraft age cohorts which means we have greater ability to create customize MRO reports for those customers asking
+::: tip Behind the scenes
+Behind the scenes we’ve built-into the source data aircraft age and associated it to MRO demand per aircraft age cohorts which means we have greater ability to create customize MRO reports for those customers asking
+:::
 
 - Reporting revisions various, i.e. engine MRO demand>Engine MRO Events reflects both aircraft and engines
 
@@ -78,4 +80,6 @@ There are a number of enhancements / improvements within the 2021 Commercial for
      - Turboprops (props) = “ATA 72T Engine LLP”
      - See the new filters available and the new events on the MRO events tab, Engine LLPs
 
-> Note: In real life practice, both events are sometimes completed at the same time “off wing”. But, the two services are so expense that it makes economic sense at times to complete during two different shop visits as shown in the forecast event counts.
+::: tip NOTE
+In real life practice, both events are sometimes completed at the same time “off wing”. But, the two services are so expense that it makes economic sense at times to complete during two different shop visits as shown in the forecast event counts.
+:::
