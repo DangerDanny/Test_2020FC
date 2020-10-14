@@ -30,7 +30,7 @@ There are a number of enhancements / improvements within the 2021 Commercial for
 ### MRO Reporting & Data
 
 ::: tip Behind the scenes
-Behind the scenes we’ve built-into the source data aircraft age and associated it to MRO demand per aircraft age cohorts which means we have greater ability to create customize MRO reports for those customers asking
+Aircraft age and associated MRO demand per aircraft age cohorts are now built-into the source data. Which means we have greater ability to create customize MRO reports for those customers asking
 :::
 
 - Reporting revisions various, i.e. engine MRO demand>Engine MRO Events reflects both aircraft and engines
