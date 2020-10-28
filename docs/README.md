@@ -1,12 +1,12 @@
 # AW Data & Intel
 
-## Interal Escalations
+## Internal Escalations
 
-**Account Status (paid/not paid, etc)**
+**Account Status (paid/not paid, etc.)**
 
 - [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**AWIN Trial Set Ups**
+**AWIN Trial Set-Ups**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 
