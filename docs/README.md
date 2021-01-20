@@ -1,6 +1,8 @@
-# AW Data & Intel
+# Internal Escalation Procedures
 
-## Internal Escalations
+Escalation procedures to effectively elevate internal account requests & external customer/product problems through the chain of command.
+
+## Account Support
 
 **Account Status (paid/not paid, etc.)**
 
@@ -18,14 +20,37 @@
 
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**AWIN Group User lists**
+**User list reports**
 
-- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
+- AWST/SPNX: [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**User list reports for SpeedNews or AWST**
+- AWIN: [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-- [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
+- MROP/FD/Forecast: [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
+
+## Customer Support
+
+Either you or the end-user can contact us by email or phone: **+1 561-279-4661**
+
+**Customer Support/Training**
+
+(AMER)
+
+- [Jhoffman@aviationaero.com](mailto:jhoffman@aviationaero.com)
+- [Dleon@aviationaero.com](mailto:dleon@aviationaero.com)
+- [DanB@aviationaero.com](mailto:danb@aviationaero.com)
+
+(EMEA & APAC)
+
+- [Brittany.hill@aviationweek.com](mailto:Brittany.hill@aviationweek.com)
+
+**Technical Issues**
+
+- [DanB@aviationaero.com](mailto:danb@aviationaero.com)
+- [Dleon@aviationaero.com](mailto:dleon@aviationaero.com)
+
+## Product Escalations
 
 ::: tip Updated on
-10/27/20 per Sarah Schartau
+1/20/21 per Sarah Schartau & Thom Clayton
 :::

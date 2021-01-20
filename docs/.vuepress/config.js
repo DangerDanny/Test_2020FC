@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Aviation Week",
+  title: "Aviation Week Intel & Data",
   description: "Data & Intelligence KB",
   themeConfig: {
     nav: [
