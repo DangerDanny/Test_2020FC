@@ -4,29 +4,29 @@ Escalation procedures to effectively elevate internal account requests & externa
 
 ## Account Support
 
-### Account Status (paid/not paid, etc.)
+### Billing
+
+**Status (paid/not paid, etc.)**
 
 - [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-### Financial Documentation
-
-(W9, ACH/Bank Details, completion of Supplier/Vendor Forms)
+**Financial Documentation (W9, ACH/Bank Details, completion of Supplier/Vendor Forms)**
 
 - [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
 ### User list reports
 
-**AWST/SPNX:**
+**AWST/SPNX**
 
 - [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com)
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**AWIN:**
+**AWIN**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**MROP/FD/Forecast:**
+**MROP/FD/Forecast**
 
 - [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
 
