@@ -14,7 +14,7 @@ Escalation procedures to effectively elevate internal account requests & externa
 
 - [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-### User list reports
+### User list Reports
 
 **AWST/SPNX**
 
@@ -55,7 +55,7 @@ Escalation procedures to effectively elevate internal account requests & externa
 Official authorization from [Thom Clayton](mailto:thom.clayton@aviationweek.com) and a proper SalesForce Event set-up (with dates) are required before contacting the provisioning team.
 :::
 
-**AWIN:**
+**AWIN**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 
