@@ -11,9 +11,7 @@ Escalation procedures to effectively elevate internal account requests & externa
 **User list reports**
 
 - AWST/SPNX: [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
 - AWIN: [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com) and [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
 - MROP/FD/Forecast: [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
 
 **Market Breifing Updates (BAV, AVD, ASD)**
