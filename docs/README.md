@@ -4,44 +4,62 @@ Escalation procedures to effectively elevate internal account requests & externa
 
 ## Account Support
 
-**Account Status (paid/not paid, etc.)**
+### Account Status (paid/not paid, etc.)
 
 - [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**User list reports**
+### Financial Documentation
 
-AWST/SPNX:
+(W9, ACH/Bank Details, completion of Supplier/Vendor Forms)
+
+- [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
+
+### User list reports
+
+**AWST/SPNX:**
 
 - [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com)
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-AWIN:
+**AWIN:**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-MROP/FD/Forecast:
+**MROP/FD/Forecast:**
 
 - [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
 
-**Market Breifing Updates (BAV, AVD, ASD)**
+### User list Updates
+
+**Market Breifing (BAV, AVD, ASD)**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 
-**SpeedNews User Updates, etc.**
+**SpeedNews**
 
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**Trial Set-Ups**  
+**AWIN**
+
+- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
+- [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
+
+**MROP/FD/Forecast**
+
+- [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
+
+### Trial Set-Ups
+
 ::: tip Note
 Official authorization from [Thom Clayton](mailto:thom.clayton@aviationweek.com) and a proper SalesForce Event set-up (with dates) are required before contacting the provisioning team.
 :::
 
-AWIN:
+**AWIN:**
 
 - [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 
-MROP/FD/Forecast
+**MROP/FD/Forecast**
 
 - [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
 
@@ -49,15 +67,15 @@ MROP/FD/Forecast
 
 Either you or the end-user can contact us by email or phone:
 
-### Customer Support/Training\*\*
+### Customer Support/Training
 
-(AMER) **+1 561-279-4661**
+**(AMER) +1 561-279-4661**
 
 - [Jhoffman@aviationaero.com](mailto:jhoffman@aviationaero.com)
 - [Dleon@aviationaero.com](mailto:dleon@aviationaero.com)
 - [DanB@aviationaero.com](mailto:danb@aviationaero.com)
 
-(EMEA & APAC) **+44 (0) 758 431 6114**
+**(EMEA & APAC) +44 (0) 758 431 6114**
 
 - [Brittany.hill@aviationweek.com](mailto:Brittany.hill@aviationweek.com)
 
