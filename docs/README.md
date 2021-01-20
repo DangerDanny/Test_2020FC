@@ -24,8 +24,8 @@ Escalation procedures to effectively elevate internal account requests & externa
 
 - [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
 
-**Trial Set-Ups**
-: An official authorization from [Thom Clayton](mailto:thom.clayton@aviationweek.com) and a proper SalesForce Event set-up (with dates) is requried before contacting the provisioning team.
+**Trial Set-Ups**  
+An official authorization from [Thom Clayton](mailto:thom.clayton@aviationweek.com) and a proper SalesForce Event set-up (with dates) is requried before contacting the provisioning team.
 
 - AWIN [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
 - MROP/FD/Forecast: [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
