@@ -86,6 +86,22 @@ Either you or the end-user can contact us by email or phone:
 
 ## Product Support
 
+### Data & Analytics Team
+
+|         Member         |                                Role                                |
+| :--------------------: | :----------------------------------------------------------------: |
+|   Terra Deskins (DC)   |                Manager, Data Production/Operations                 |
+|   Doug Stailey (DC)    |          Senior Data Analyst, DBA, Research, Company Data          |
+|   Nigel Howarth (UK)   |      Senior Fleet Data Analyst, DBA, Fleet, Flight, Forecast       |
+| Melissa Phillips (OKC) |             Aircraft Records Analyst, FAA Workstation              |
+|   Brian Bostick (TN)   |          Senior Fleet Data Analyst, Commercial Fixed-Wing          |
+|   Dan Williams (UK)    | Senior Fleet Data Analyst, Commercial Fixed-Wing, Flight, Forecast |
+|   Nigel Prevett (FL)   |           Senior Fleet Data Analyst, Business Fixed-Wing           |
+|   Nigel Harrod (UK)    |               Data Fleet Analyst, Non-Western Types                |
+|   Bo Lundkvist (HI)    |             Data Fleet Analyst, Commercial Fixed-Wing              |
+|   Mike Hopwood (UK)    |                  Data Fleet Analyst, Rotary- Wing                  |
+|  Peter Lambourn (UK)   |                  Data Fleet Analyst, Rotary- Wing                  |
+
 ::: tip Updated on
-1/20/21 per Sarah Schartau & Thom Clayton
+1/21/21 per Sarah Schartau & Thom Clayton
 :::
