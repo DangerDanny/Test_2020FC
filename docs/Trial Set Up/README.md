@@ -15,7 +15,8 @@ Trials will now be set-up via Salesforce which will:
 
 **1.** Trials use the same system/process as creating a Demo or Meeting Event. To set-up, a trial, go to your Contact, hover over “Open Activities,” and select “New Event.” The salesperson will set up the Salesforce Event with:
 
-- &nbsp; Add the Start and End dates for this Trial, plus any additional notes. (Trials should typically be for a maximum period of one (1) week)
+&nbsp; - Add the Start and End dates for this Trial, plus any additional notes. (Trials should typically be for a maximum period of one (1) week)
+
 - On the New Event record, select Type = Trials.
 - Users (From the top right of the page, select Add Invitees to add all the users you want to have trial access.)
 - Make sure that you link the Trial to an Opportunity – there will be no trials without Opportunities.
