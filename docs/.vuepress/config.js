@@ -18,7 +18,7 @@ module.exports = {
       },
 
     ],
-    sidebar: ["/", "/Trial Set Up/", "/2021_CAMRO/"],
+    sidebar: ["/", "/Trial_Set_Up/", "/2021_CAMRO/"],
     sidebarDepth: 2,
   },
 };
