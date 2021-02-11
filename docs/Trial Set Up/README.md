@@ -13,10 +13,6 @@ Trials will now be set-up via Salesforce which will:
 
 ## Process details
 
-Trials should typically be for a maximum period of one (1) week.
-
-Salesperson must check-in with Trial User(s) within 48hrs of set-up to ensure prospect has access, is receiving daily Market Briefings, and has received (or is booked to receive) Training.
-
 1. Trials use the same system/process as creating a Demo or Meeting Event. To set-up, a trial, go to your Contact, hover over “Open Activities,” and select “New Event.” The salesperson will set up the Salesforce Event with:
 
    - Add the Start and End dates for this Trial, plus any additional notes. (Trials should typically be for a maximum period of one (1) week)
@@ -41,3 +37,7 @@ Salesperson must check-in with Trial User(s) within 48hrs of set-up to ensure pr
 4. Trials will continue until the End Date when they will be marked as Trial – Ended
 
    - If AWN or customer for any reason puts the Trial on hold, it will be marked Trial – Suspended
+
+::: tip Note
+Salesperson must check-in with Trial User(s) within 48hrs of set-up to ensure prospect has access, is receiving daily Market Briefings, and has received (or is booked to receive) Training.
+:::
