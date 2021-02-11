@@ -1,4 +1,4 @@
-# Product Trials Process (Jan 2021)
+# Product Trials Process
 
 Trials will now be set-up via Salesforce which will:
 
