@@ -1,4 +1,4 @@
-# Internal Escalation Procedures
+# Internal Escalation Procedures.
 
 Escalation procedures to effectively elevate internal account requests & external customer/product problems through the chain of command.
 
