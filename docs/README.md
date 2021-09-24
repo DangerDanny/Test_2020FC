@@ -86,6 +86,20 @@ Either you or the end-user can contact us by email or phone:
 
 ## Product Support
 
+### Support Email Procedure for Content Questions/Concerns
+
+Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues, questions that any customer is having. At times might be able to provide some answers quickly.
+
+#### Questions around Products:
+
+- **Forecast** – Any questions around Forecast should be addressed to Brian Kough. If the question is around Fleet Content (Commercial, you can copy in Dan Williams. Military, you can copy in Craig Caffrey). If the question is around MRO Content copy in Craig Caffery. If the question is around functionality copy in Shambo.
+
+- **Fleet Discovery Civil** – Questions around Fleet Discovery. If your question is around how to build a report or get to the data you /customer needs, send it to Brittany Hill. If questions around Fleet content are addressed to Terra Deskins and copy in Dan Williams. If the question is around something not working correctly (reports dashboard) should be addressed to Shambo.
+
+- **MROP** - Any questions around MROP should be addressed to Brian Kough. Questions around contracts copy in Andy Webster. Questions around something not working or functionality copy in Shambo.
+
+- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner. For questions around company data, addressed to Brian Kough. For questions around Fleet addressed to Terra Deskins. For anything that is broken regarding functionality addressed to Rick, Ken, and copy in Shambo. Authentication and Access issues
+
 ### Data & Analytics Team
 
 |         Member         |                                Role                                |
