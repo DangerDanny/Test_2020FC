@@ -26,8 +26,10 @@ Assistance with low level password reset/enterprise authentication and initial t
 
 For anything broken with functionality (UI, authentication, reports, etc.)
 
-- [DanB@aviationaero.com](mailto:danb@aviationaero.com)
-- [andresg@aviationaero.com](mailto:andresg@aviationaero.com)
+- [rick.little@aviationweek.com](mailto:rick.little@aviationweek.com)
+- [kenneth.liao@informa.com](mailto:kenneth.liao@informa.com)
+  and CC
+- [shambo.pfaff@informa.com](mailto:shambo.pfaff@informa.com)
 
 ## Product Support
 
@@ -43,7 +45,7 @@ Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@av
 
 - **MROP** - Any questions around MROP should be addressed to Brian Kough. Questions around contracts copy in Andy Webster. Questions around something not working or functionality copy in Shambo.
 
-- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner. For questions around company data, addressed to Brian Kough. For questions around Fleet addressed to Terra Deskins. For anything that is broken regarding functionality addressed to Rick, Ken, and copy in Shambo.
+- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner. For questions around company data, addressed to Brian Kough. For questions around Fleet addressed to Terra Deskins. For anything broken with functionality (UI, authentication, reports, etc.) addressed to Rick, Ken, and copy in Shambo.
 
 ## Account Support
 
