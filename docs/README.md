@@ -2,13 +2,7 @@
 
 Escalation procedures to effectively elevate internal account requests & external customer/product problems through the chain of command.
 
-## Product Support
-
-### Support Email Procedure for Content Questions/Concerns
-
-Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues, questions that any customer is having. At times might be able to provide some answers quickly.
-
-### Customer Support/Training
+## Customer Support/Training
 
 **(EMEA & APAC) +44 (0) 758 431 6114**
 
@@ -25,6 +19,12 @@ Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@av
 
 - [DanB@aviationaero.com](mailto:danb@aviationaero.com)
 - [andresg@aviationaero.com](mailto:andresg@aviationaero.com)
+
+## Product Support
+
+### Support Email Procedure for Content Questions/Concerns
+
+Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues, questions that any customer is having. At times might be able to provide some answers quickly.
 
 #### Questions around Products:
 
