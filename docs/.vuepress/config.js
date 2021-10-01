@@ -4,11 +4,6 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true,
     nav: [
-      { text: "Home", link: "/" },
-      {
-        text: "2021 CAMRO",
-        link: "/2021_CAMRO/",
-      },
       {
         text: "awin.aviationweek.com",
         link: "https://awin.aviationweek.com",
@@ -18,7 +13,7 @@ module.exports = {
         link: "https://fleet.aviationweek.com",
       },
     ],
-    sidebar: ["/", "/Escalations/", "/Trial_Set_Up/", "/2021_CAMRO/"],
+    sidebar: ["/", "/Escalations/", "/Trial_Set_Up/"],
     sidebarDepth: 2,
   },
 };
