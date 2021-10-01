@@ -1,109 +1,81 @@
-# Internal Escalation Procedures
+# Customer Support Processes & Procedures
 
-Escalation procedures to effectively elevate internal account requests & external customer/product problems through the chain of command.
+## Overview
 
-## Customer Support/Training
+- Our goal is to provide every customer worldwide with an outstanding customer experience by giving the best support possible:
 
-**(EMEA & APAC) +44 (0) 758 431 6114**
+  - Provide welcome emails to every customer (no matter what service they purchased)
+  - Provide onboarding training and refresher training for renewals
+  - Provide 3/6/9 month check-ins to every customer (and end-users)
+  - Provide customer support for customer questions, concerns, assistance as needed
+  - Perform customer audits at 6 months (to help give insight for renewal)
+  - All support reps should be able to assist customers with problems from any products
 
-- [Brittany.hill@aviationweek.com](mailto:Brittany.hill@aviationweek.com)
+## New Order/Renewals Procedures
 
-**(AMER) +1 561-279-4661**
+Once a sales rep marks an account as Verbal Order, support is now responsible for that account.
 
-- [andresg@aviationaero.com](mailto:andresg@aviationaero.com)
-- [DanB@aviationaero.com](mailto:danb@aviationaero.com)
-- [Dleon@aviationaero.com](mailto:dleon@aviationaero.com)
-- [Jhoffman@aviationaero.com](mailto:jhoffman@aviationaero.com)
+::: tip Note
+Support should not expect sales to create any tasks for them on a new account
+:::
 
-### Level I Technical Issues
+- Support will receive the automated email from SalesForce showing there is a new closed account. These should be noted, but nothing actionable is needed
 
-Assistance with low level password reset/enterprise authentication and initial troubleshooting
+- Support should run an SF report every two weeks to ensure all accounts are caught. This report shows all verbal orders, closed-won accounts by month
 
-- [DanB@aviationaero.com](mailto:danb@aviationaero.com)
-- [andresg@aviationaero.com](mailto:andresg@aviationaero.com)
+- Set up Google Spreadsheet to show support tracking. This is designed to help with transparency and an overview of what needs to be done. The spreadsheet shows when calls for customers will be placed and tracked as they are complete. Delivering two-week call/welcome email 3-month/6-month/9-month check-ins
 
-### Level II Escalations
+  - If support (personal preference) likes, they may also set up personal tasks in SF.
 
-For anything broken with functionality (UI, authentication, reports, etc.)
+- From single MB to a full package of AWIN/FD/Forecast/MROP, all customers will be reached out to. This includes reaching out to individual end-users.
 
-- [rick.little@aviationweek.com](mailto:rick.little@aviationweek.com)
-- [kenneth.liao@informa.com](mailto:kenneth.liao@informa.com)
-  and CC
-- [shambo.pfaff@informa.com](mailto:shambo.pfaff@informa.com)
+- Welcome emails (standard template to be used) should be sent. Timeframe of welcome emails does vary by-product:
+  For any GoodData products, Tim will send out initial welcome emails, including contact info for support immediately.
 
-## Product Support
+  - For AWIN individual users welcome email is sent from the system immediately.
+  - For AWIN if Group support should immediately send a welcome email with credentials.
+  - For GD users and individual AWIN users, support should send an additional welcome email at the 1 to 2-week mark. (Not earlier. This is to keep Avweek emails down upon first signing up/renewals)
 
-### Support Email Procedure for Content Questions/Concerns
+- For AWIN, checks on set up in Drupal should be conducted at activation. Backend processing like invoicing should be followed up on if not complete at activation. Support should check at the two-week mark and alert Sarah/Account team if not complete (follow up until done).
+
+- Three-month check-ins should be conducted for all customers. Standardized emails to be used should be sent to all end users. Calls should be placed when numbers are available.
+
+- Audits (starting Jan 2022) to be conducted. Support to review the SF op, look at the user list, and see what users are active in all products. Ensure these align, look at usage, and overview of any issues. Provide traffic light assessment for renewal (Red, Yellow, Green) speak with the sales rep for an action plan for the second half of their account.
+
+## End-user Support
+
+- For customers reaching out with any questions or issues:
+
+  - Support will work internally to solve/answer any question or issue before escalating to any additional teams.
+  - Support will track issues in SF cases
+  - Support will log all emails and responses to the SF Account/Opportunity
+  - If escalation needs to occur, please follow the escalation document to product owners (see [Escalating Questions around Products](/#escalating-questions-around-products))
+
+- All support should address any customer questions/issues internally together before escalating to any other teams. Please make sure to reach out to support product specialists: GoodData Products – Brittany & AWIN – Dan B
+
+- AWIN password & access issues should be first addressed by support. Support can reset passwords and verify the customer access level. Dan B can also assist in troubleshooting IP enterprise access issues regarding third-party solutions (OpenAthens, EZProxy, etc.)
+
+### Escalating Questions around Products
 
 Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues, questions that any customer is having. At times might be able to provide some answers quickly.
 
-#### Questions around Products:
+- **Forecast** – Any questions around Forecast should be addressed to Brian Kough.
 
-- **Forecast** – Any questions around Forecast should be addressed to Brian Kough. If the question is around Fleet Content (Commercial, you can copy in Dan Williams. Military, you can copy in Craig Caffrey). If the question is around MRO Content copy in Craig Caffery. If the question is around functionality copy in Shambo.
+  - Questions around Fleet Content (Commercial you can copy in Dan Williams. Military you can copy in Craig Caffrey).
+  - Questions around MRO Content copy in Craig Caffery. If the question is around functionality copy in Shambo.
 
-- **Fleet Discovery Civil** – Questions around Fleet Discovery. If your question is around how to build a report or get to the data you /customer needs, send it to Brittany Hill. If questions around Fleet content are addressed to Terra Deskins and copy in Dan Williams. If the question is around something not working correctly (reports dashboard) should be addressed to Shambo.
+- **Fleet Discovery Civil** – Questions around Fleet Discovery.
 
-- **MROP** - Any questions around MROP should be addressed to Brian Kough. Questions around contracts copy in Andy Webster. Questions around something not working or functionality copy in Shambo.
+  - Questions around how to build a report or get to data email should be addressed to Brittany Hill.
+  - Questions around Fleet content addressed to Terra Deskins and copy in Dan Williams.
+  - Questions around something not working properly (reports dashboard) should be addressed to Shambo.
 
-- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner. For questions around company data, addressed to Brian Kough. For questions around Fleet addressed to Terra Deskins. For anything broken with functionality (UI, authentication, reports, etc.) addressed to Rick, Ken, and copy in Shambo. Lower access issues to Sarah and her team.
+- **MROP** - Any questions around MROP should be addressed to Brian Kough.
 
-## Account Support
+  - Questions around contracts copy in Andy Webster
+  - Questions around something not working or functionality copy in Shambo.
 
-### Billing
-
-**Status (paid/not paid, etc.)**
-
-- [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-**Financial Documentation (W9, ACH/Bank Details, completion of Supplier/Vendor Forms)**
-
-- [awin@aviationweek.com](mailto:awin@aviationweek.com), please copy [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-### User list Reports
-
-**AWST/SPNX**
-
-- [Andrew.ritzer@aviationweek.com](mailto:Andrew.ritzer@aviationweek.com)
-- [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-**AWIN**
-
-- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
-- [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-**MROP/FD/Forecast**
-
-- [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
-
-### User list Updates
-
-**Market Breifing (BAV, AVD, ASD, AAM, SPNX)**
-
-- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
-
-**SPNX**
-
-- [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-**AWIN**
-
-- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
-- [Sarah.schartau@aviationweek.com](mailto:Sarah.schartau@aviationweek.com)
-
-**MROP/FD/Forecast/TAU**
-
-- [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
-
-### Trial Set-Ups
-
-::: tip Note
-Official authorization from [Thom Clayton](mailto:thom.clayton@aviationweek.com) and a proper SalesForce Event set-up (with dates) are required before contacting the provisioning team.
-:::
-
-**AWIN**
-
-- [Victoria.watson@aviationweek.com](mailto:Victoria.watson@aviationweek.com)
-
-**MROP/FD/Forecast**
-
-- [Tim.Hollandmoritz@aviationweek.com](mailto:Tim.Hollandmoritz@aviationweek.com)
+- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner.
+  - For anything broken regarding functionality, address to Rick, Ken, and copy in Shambo Authentication and Access issues addressed to Ken and Rick (lower access issues to Sarah and her team)
+  - Questions around company data addressed to Brian Kough.
+  - Questions around Fleet addressed to Terra Deskins.

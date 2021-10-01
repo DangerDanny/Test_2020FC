@@ -18,7 +18,7 @@ module.exports = {
         link: "https://fleet.aviationweek.com",
       },
     ],
-    sidebar: ["/", "/Trial_Set_Up/", "/2021_CAMRO/"],
+    sidebar: ["/", "/Escalations/", "/Trial_Set_Up/", "/2021_CAMRO/"],
     sidebarDepth: 2,
   },
 };
