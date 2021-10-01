@@ -51,7 +51,10 @@ Support should not expect sales to create any tasks for them on a new account
   - Support will log all emails and responses to the SF Account/Opportunity
   - If escalation needs to occur, please follow the escalation document to product owners (see [Escalating Questions around Products](/#escalating-questions-around-products))
 
-- All support should address any customer questions/issues internally together before escalating to any other teams. Please make sure to reach out to support product specialists: GoodData Products – Brittany & AWIN – Dan B
+- All support should address any customer questions/issues internally together before escalating to any other teams. Please make sure to reach out to support product specialists:
+
+  - GoodData Products – [Brittany Hill](mailto:Brittany.hill@aviationweek.com)
+  - AWIN – [Dan Bejarano](mailto:danb@aviationaero.com)
 
 - AWIN password & access issues should be first addressed by support. Support can reset passwords and verify the customer access level. Dan B can also assist in troubleshooting IP enterprise access issues regarding third-party solutions (OpenAthens, EZProxy, etc.)
 
