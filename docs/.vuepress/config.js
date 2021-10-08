@@ -13,7 +13,7 @@ module.exports = {
         link: "https://fleet.aviationweek.com",
       },
     ],
-    sidebar: ["/", "/Escalations/", "/Trial_Set_Up/"],
+    sidebar: ["/", "/Escalations/", "/Trial_Set_Up/", "/AWIN/"],
     sidebarDepth: 2,
   },
 };
