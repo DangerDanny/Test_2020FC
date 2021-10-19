@@ -54,10 +54,11 @@ Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@av
   - Questions around contracts copy in Andy Webster
   - Questions around something not working or functionality copy in Shambo.
 
-- **AWIN** - Any questions around AWIN should have Rick Little copied in as product owner.
-  - For anything broken regarding functionality, address to Rick, Ken, and copy in Shambo Authentication and Access issues addressed to Ken and Rick (lower access issues to Sarah and her team)
-  - Questions around company data addressed to Brian Kough.
-  - Questions around Fleet addressed to Terra Deskins.
+- **AWIN** - Any questions around AWIN should have [Rick Little](rick.little@aviationweek.com) copied in as product owner.
+  - For anything broken regarding functionality, address to [Rick Little](rick.little@aviationweek.com), [Ken Liao](kenneth.liao@informa.com), and copy in [Shambo Pfaff](shambopfaff@informa.com) Authentication and Access issues addressed to [Ken Liao](kenneth.liao@informa.com) and [Rick Little](rick.little@aviationweek.com) (lower access issues to [Sarah Schartau](Sarah.schartau@aviationweek.com) and her team)
+  - For questions around issues with articles, address to [Mike Lavitt](mailto:mlavitt@aviationweek.com)
+  - For questions around company data address to [Brian Kough](mailto:briankough@aviationweek.com)
+  - For questions around Fleet addressed to [Terra Deskins](mailto:terradeskins@aviationweek.com)
 
 ## Account Support
 
