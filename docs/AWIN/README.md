@@ -1,11 +1,103 @@
 # AWIN
 
+AWIN has been around for 20 years - It's known as our one-stop-shop for all of AW's editorial products that focus on the programs and technologies shaping the market. Including continuously updated databases that cover:
+- A historical and present-day article base that is categorized by publications specializing in industry sector or topic.
+- A historical and present-day article base that is categorized by publications specializing in industry sector or topic.
+- A continually updated, high-level fleet database.
+- A Program Database, which includes program summaries, suppliers list, and current operators (if applicable.)
+- And our Knowledge Center that holds exclusive content only found within AWIN.
+
+
 
 ## Scope
 
-### Features
+### Intelligence Bundles
 
-#### RSS
+- AWIN - **Premium**
+- AWIN - **Aerospace and Defense**
+- AWIN - **Business Aviation**
+- AWIN - **Commercial Aviation**
+
+### Intelligence Bundles comparison
+
+|   |PREMIUM|COMMERCIAL|AEROSPACE & DEFENSE|BUSINESS AVIATION|
+|---|---|---|---|---|
+|**EDITORIAL PRODUCTS**|   |   |   |   |
+|Aviation Week & Space Technology|X|X|X|   |
+|AW&ST - MRO Edition / Inside MRO|X|X|X|   |
+|Aerospace Daily & Defense Report|X|   |X|   |
+|Aviation Daily|X|   |X|   |
+|Advanced Air Mobility Report|X|   |   |   |
+|SpeedNews|X|X|   |   |
+|The Weekly Of Business Aviation|X|   |   |X|
+|Business & Commercial Aviation (BCA)|X|   |   |X|
+|Air Transport World  (ATW)|X|X|   |   |
+|**DATA**|   |   |   |   |
+|Organizations Database|X|X|X|X|
+|Personnel Database|X|X|X|X|
+|Products & Services Database|X|X|X|X|
+|Program Suppliers Database|X|X|X|X|
+|Commercial Aviation Fleet Data|X|X|   |   |
+|Military Fleet Data|X|   |X|   |
+|Business Aviation Fleet Data |X|   |   |X|
+|**RESOURCES**|   |   |   |   |
+|100+ Year AW&ST Archive|X|X|X|X|
+|Program profiles|X|X|X|X|
+|Knowledge Center |X|X|X|X|
+|Source Book & Specs|X|X|X|X|
+|Workforce Report |X|X|X|X|
+|U.S. Budget Report  |X|X|X||
+|**ARCHIVE PRODUCTS**|   |   |   |   |
+|AW&ST - Defense Edition |X|   |X|   |
+|Defense Technology International |X|   |X|   |
+|Overhaul & Maintenance |X|X|X|   |
+
+### Update Frequency
+
+|   |DAILY|BI-WEEKLY|
+|---|---|---|
+|**CONTENT**|   |   |
+|Articles|X|   |
+|Company Data|   |X|
+|Fleet Data|   |X|
+|Knowledge Center|X|   |
+
+<!-- - Articles - daily
+- Company Data - Bi-weekly
+- Fleet Data - Bi-weekly (every two weeks)
+- Knowledge Center (daily) -->
+
+### Exports
+
+|   |PDF|EXCEL|MYAWIN ALERTS|
+|---|---|---|---|
+|**CONTENT**| | | |
+|Articles|X| |X|
+|Company Profiles| |X||
+|Program Profiles| |X||
+|Company Listings| |X| |
+|Supplier Listings| |X| |
+|High-level Fleet Report| |X| |
+|Canned Reports| |X| |
+|Presentations|X| | |
+|White Papers|X| | |
+
+<!-- 
+- Articles
+- Company Profiles
+- Program Profiles
+- Company Listings
+- High-level Fleet Report
+- Canned Reports
+- Presentations
+- Supplier Listing
+- Canned Reports
+- Presentations
+- White Papers -->
+
+## Features
+
+### RSS
 
 A standardized system for the distribution of content from our online publications. You can offer these to your customers at ***_no additional fee._*** The RSS will add valuable functional benefit and drive
 traffic (logins) to AWIN.
@@ -28,146 +120,12 @@ AWIN's RSS feeds match AWIN subscriptions packages are now available to customer
 |SpeedNews|https://aviationweek.com/taxonomy/term/35721/feed|
 |Advanced Air Mobility|https://aviationweek.com/taxonomy/term/148386/feed|
 
-
-
 Typically, a customer can integrate the RSS into their own browser, their Portal/Intranet, into an RSS Reader App
 (there are hundreds, Feedly is great) or into their CRM. 
 
-### UI Features
+## Authentication
 
-# AVIATION WEEK Publications & AWIN Packages
+### Timeouts
 
-# AWIN Packages
-
-### AWIN Com
-
-Publications: 
-
-- **(AWST) (Monthly - Bi-monthly)** AVIATION WEEK & SPACE TECHNOLOGY
-- **(AVD) (Daily)** AVIATION DAILY
-- **(BAV) (Weekly)** The Weekly of Business Aviation
-- **(ATW) (Monthly)** AIR TRANSPORT WORLD
-- **(BCA)** BUSINESS & COMMERCIAL AVIATION
-- AW&ST - MRO EDITION / INSIDE MRO*
-    
-
-## AWIN BizAv -
-
-Publications:
-
-- **(BAV) (Weekly - Monday)** THE WEEKLY OF BUSINESS AVIATION
-- **(BCA) (Monthly)** BUSINESS & COMMERCIAL AVIATION
-- **(ATW) (Monthly)** AIR TRANSPORT WORLD*****
-
-
-## AWIN Civil -
-
-Biz & Com
-
-## AWIN Aerospace & Defense (Military) -
-
-Publications: 
-
-- **(AWST) (Biweekly)** AVIATION WEEK & SPACE TECHNOLOGY
-- **(ASD)  (Daily)** AEROSPACE DAILY & DEFENSE REPORT
-
-## AWIN Premium
-
-Everything 
-
-# AW Publication Portfolio
-
-## **Aviation Week & Space Technology - "Magazine"**
-
-Covers up-and-coming tech and business developments within the aerospace/aviation industry.
-
-Access links: 
-
-- Official landing page:  [https://aviationweek.com/AWST](https://aviationweek.com/AWST)
-- current magazine edition: [https://aviationweek.com/awst_current](https://aviationweek.com/awst_current)
-- online publication access: [https://aviationweek.com/magazine-publications?source=1066](https://aviationweek.com/magazine-publications?source=1066)
-- archive of digital version: [https://archive.aviationweek.com](https://archive.aviationweek.com)
-
-## **Air Transport World - "Magazine"**
-
-For the global airline management community: 
-
-Access links: 
-
-- Official landing page: [https://aviationweek.com/air-transport/ATW](https://aviationweek.com/air-transport/ATW)
-- Current magazine edition: [https://aviationweek.com/atw_current](https://aviationweek.com/atw_current)
-- Online publication: [https://aviationweek.com/magazine-publications?source=1151](https://aviationweek.com/magazine-publications?source=1151)
-- Archive/library: [https://www.atw-digital.com/airtransportworld/library/](https://www.atw-digital.com/airtransportworld/library/)
-
-## **Aviation Daily - "Market Briefing"**
-
-Executive focused commercial aviation intelligence: 
-
-Access links: 
-
-- Online publication: [https://aviationweek.com/magazine-publications?source=1081](https://aviationweek.com/magazine-publications?source=1081)
-- Archive/library: [https://aviationweek.com/awin/avd/recent-past-editions](https://aviationweek.com/awin/avd/recent-past-editions)
-
-username: [avdpenton@gmail.com](mailto:avdpenton@gmail.com) | password: Penton123
-
-## **Aerospace Daily & Defense Report - "Market Briefing"**
-
-Intelligence on programs, budgets and policies in defense, as well as military and civil space. 
-
-Access links: 
-
-- Online publication: [https://aviationweek.com/magazine-publications?source=1076](https://aviationweek.com/magazine-publications?source=1076)
-- Archive/library: [https://aviationweek.com/awin/asd/recent-past-editions](https://aviationweek.com/awin/avd/recent-past-editions)
-
-username: [asdpenton@gmail.com](mailto:avdpenton@gmail.com) | password: Penton123
-
-## SpeedNews**- "Market Briefing"**
-
-SpeedNews comes in a concise, quick-read format to learn key developments in commercial and business aviation.. 
-
-Access links: 
-
-- Online publication: [https://aviationweek.com/magazine-publications?source=35721](https://aviationweek.com/magazine-publications?source=35721)
-- Landing page: [https://aviationweek.com/speednews](https://aviationweek.com/speednews)
-
-username: [asdpenton@gmail.com](mailto:avdpenton@gmail.com) | password: Penton123
-
-## The Weekly of Business Aviation **- "Market Briefing"**
-
-Professionals at flight departments, FBOs, OEMs, and more trust it to deliver the intelligence they need to easily monitor the issues impacting them and their operations, gain insight into currently enacted – as well as pending – regulatory and legislative actions, and so much more.
-
-Access links: 
-
-- Online publication: [https://aviationweek.com/magazine-publications?source=1091](https://aviationweek.com/magazine-publications?source=1091)
-
-username: [asdpenton@gmail.com](mailto:avdpenton@gmail.com) | password: Penton123
-
-## Advanced Air Mobility **- "Market Briefing"**
-
-Intelligence on the evolving advanced air mobility ecosystem
-
-Access links: 
-
-- Online publication: [https://aviationweek.com/magazine-publications?source=148386](https://aviationweek.com/magazine-publications?source=148386)
-- Landing page: [https://aviationweek.com/advancedairmobilityreport](https://aviationweek.com/advancedairmobilityreport)
-
-username: [asdpenton@gmail.com](mailto:avdpenton@gmail.com) | password: Penton123
-
-### AW AWIN Portfolio
-
-**Freemium** - Anybody that went to AW.com and created a free account.
-
-- Drupal product code - Freemium
-
-# AWIN Reports (Search By)
-
-### Data
-   
-
-
-
-- Report/Exports (format and available reports)
-- Access
-- FAQs
-- Use-cases
-- Product updates/changelog
+- When the user logs in, the session is active for seven days (10080 minutes exactly). At 10081st minute, the user will revert to Guest. When the user clicks Login, the session resumes automatically.
+- All active sessions will automatically log out after fourteen days (20160 minutes exactly). At 20161st minute, users will have to log in again regardless of their activity.
