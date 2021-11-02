@@ -1,3 +1,11 @@
 # Fleet Discovery
 
-## More coming soon
+## Objective of the Product
+
+## Access/Authentication
+
+## Scope
+
+### Update Frequency
+
+## Features

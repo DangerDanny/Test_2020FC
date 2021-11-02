@@ -1,5 +1,7 @@
 # AWIN
 
+## Objective of the Product
+
 AWIN has been around for 20 years - It's known as our one-stop-shop for all of AW's editorial products that focus on the programs and technologies shaping the market. Including continuously updated databases that cover:
 - A historical and present-day article base that is categorized by publications specializing in industry sector or topic.
 - A historical and present-day article base that is categorized by publications specializing in industry sector or topic.
@@ -7,7 +9,12 @@ AWIN has been around for 20 years - It's known as our one-stop-shop for all of A
 - A Program Database, which includes program summaries, suppliers list, and current operators (if applicable.)
 - And our Knowledge Center that holds exclusive content only found within AWIN.
 
+## Access/Authentication
 
+### Timeouts
+
+- When the user logs in, the session is active for seven days (10080 minutes exactly). At 10081st minute, the user will revert to Guest. When the user clicks Login, the session resumes automatically.
+- All active sessions will automatically log out after fourteen days (20160 minutes exactly). At 20161st minute, users will have to log in again regardless of their activity.
 
 ## Scope
 
@@ -18,7 +25,7 @@ AWIN has been around for 20 years - It's known as our one-stop-shop for all of A
 - AWIN - **Business Aviation**
 - AWIN - **Commercial Aviation**
 
-### Intelligence Bundles comparison
+### Intelligence Bundles Comparison
 
 |   |PREMIUM|COMMERCIAL|AEROSPACE & DEFENSE|BUSINESS AVIATION|
 |---|---|---|---|---|
@@ -62,11 +69,6 @@ AWIN has been around for 20 years - It's known as our one-stop-shop for all of A
 |Fleet Data|   |X|
 |Knowledge Center|X|   |
 
-<!-- - Articles - daily
-- Company Data - Bi-weekly
-- Fleet Data - Bi-weekly (every two weeks)
-- Knowledge Center (daily) -->
-
 ### Exports
 
 |   |PDF|EXCEL|MYAWIN ALERTS|
@@ -82,18 +84,6 @@ AWIN has been around for 20 years - It's known as our one-stop-shop for all of A
 |Presentations|X| | |
 |White Papers|X| | |
 
-<!-- 
-- Articles
-- Company Profiles
-- Program Profiles
-- Company Listings
-- High-level Fleet Report
-- Canned Reports
-- Presentations
-- Supplier Listing
-- Canned Reports
-- Presentations
-- White Papers -->
 
 ## Features
 
@@ -122,10 +112,3 @@ AWIN's RSS feeds match AWIN subscriptions packages are now available to customer
 
 Typically, a customer can integrate the RSS into their own browser, their Portal/Intranet, into an RSS Reader App
 (there are hundreds, Feedly is great) or into their CRM. 
-
-## Authentication
-
-### Timeouts
-
-- When the user logs in, the session is active for seven days (10080 minutes exactly). At 10081st minute, the user will revert to Guest. When the user clicks Login, the session resumes automatically.
-- All active sessions will automatically log out after fourteen days (20160 minutes exactly). At 20161st minute, users will have to log in again regardless of their activity.

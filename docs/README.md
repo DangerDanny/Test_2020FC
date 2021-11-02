@@ -4,12 +4,12 @@
 
 - Our goal is to provide every customer worldwide with an outstanding customer experience by giving the best support possible:
 
-  - Provide welcome emails to every customer (no matter what service they purchased)
-  - Provide onboarding training and refresher training for renewals
-  - Provide 3/6/9 month check-ins to every customer (and end-users)
-  - Provide customer support for customer questions, concerns, assistance as needed
-  - Perform customer audits at 6 months (to help give insight for renewal)
-  - All support reps should be able to assist customers with problems from any products
+  - Provide welcome emails to every customer (no matter what service they purchased.)
+  - Provide onboarding training and refresher training for renewals.
+  - Provide 3/6/9 month check-ins to every customer (and end-users.)
+  - Provide customer support for customer questions, concerns, assistance as needed.
+  - Perform customer audits at six months (to help give insight for renewal.)
+  - All support reps should be able to assist customers with problems from any products.
 
 ## New Order/Renewals Procedures
 
