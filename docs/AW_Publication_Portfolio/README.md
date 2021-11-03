@@ -72,7 +72,7 @@ Access links:
 - Landing page: [https://aviationweek.com/speednews](https://aviationweek.com/speednews)
 
 ::: details Test Account Details
-username: **asdpenton@gmail.com** | password: Penton123
+username: **spnpenton@gmail.com** | password: Penton123
 :::
 
 ## The Weekly of Business Aviation
@@ -86,7 +86,7 @@ Access links:
 - Online publication: [https://aviationweek.com/magazine-publications?source=1091](https://aviationweek.com/magazine-publications?source=1091)
 
 ::: details Test Account Details
-username: **asdpenton@gmail.com** | password: Penton123
+username: **bavpenton@gmail.com** | password: Penton123
 :::
 
 ## Advanced Air Mobility
