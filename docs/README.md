@@ -82,3 +82,17 @@ Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@av
   - For anything broken regarding functionality, address to Rick, Ken, and copy in Shambo Authentication and Access issues addressed to Ken and Rick (lower access issues to Sarah and her team)
   - Questions around company data addressed to Brian Kough.
   - Questions around Fleet addressed to Terra Deskins.
+
+### Level 2 Escalation Format and Questions
+
+Please get the customer to provide the following details so to assist in the troubleshooting process:
+
+1.	May I ask, are you currently in-network, or are you connecting to RR’s network in any way
+2.	What browser are you using? 
+3.	Would you be able to follow this link WhatsMyIP and reply with what you see?
+4.	Could you please let us know if you’re getting the same issue when going through awin.aviationweek.com? 
+5.	The URL(s) you tried to access.
+6.	The times (hour and minute) you attempted to access. 
+
+
+Also, please capture the session from when you open a new browser window up to the error message, then send the HAR file. Instructions are at https://toolbox.googleapps.com/apps/har_analyzer/ - follow the steps for the browser you’re using.

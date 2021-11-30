@@ -49,7 +49,7 @@ username: **avdpenton@gmail.com** | password: Penton123
 
 Category: **Market Briefing**
 
-Intelligence on programs, budgets and policies in defense, as well as military and civil space.
+Intelligence on programs, budgets, and policies in defense, as well as military and civil space.
 
 Access links:
 
@@ -64,7 +64,7 @@ username: **asdpenton@gmail.com** | password: Penton123
 
 Category: **Market Briefing**
 
-SpeedNews comes in a concise, quick-read format to learn key developments in commercial and business aviation..
+SpeedNews comes in a concise, quick-read format to learn key developments in commercial and business aviation.
 
 Access links:
 
