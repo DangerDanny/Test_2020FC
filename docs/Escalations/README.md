@@ -17,7 +17,7 @@ Escalation procedures to effectively elevate internal account requests & externa
 
 ### Level I Technical Issues
 
-Assistance with low level password reset/enterprise authentication and initial troubleshooting
+Assistance with low-level password reset/enterprise authentication and initial troubleshooting
 
 - [DanB@aviationaero.com](mailto:danb@aviationaero.com)
 - [AndresG@aviationaero.com](mailto:andresg@aviationaero.com)
@@ -34,7 +34,7 @@ For anything broken with functionality (UI, authentication, reports, etc.)
 
 ### Support Email Procedure for Content Questions/Concerns
 
-Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues, questions that any customer is having. At times might be able to provide some answers quickly.
+Any escalated question should have [Brittany Hill](mailto:Brittany.hill@aviationweek.com) copied in as head of support. The head of support should always be aware of issues and questions that any customer has, and at times might be able to provide some answers quickly.
 
 #### Questions around Products:
 
@@ -45,12 +45,11 @@ Any question being escalated should have [Brittany Hill](mailto:Brittany.hill@av
 
 - **Fleet Discovery Civil** – Questions around Fleet Discovery.
 
-  - Questions around how to build a report or get to data email should be addressed to Brittany Hill.
-  - Questions around Fleet content addressed to Terra Deskins and copy in Dan Williams.
-  - Questions around something not working properly (reports dashboard) should be addressed to Shambo.
+  Questions about building a report or getting to data should be addressed in an email to Brittany Hill.
+  - Questions around Fleet content should be addressed to Terra Deskins with Dan Williams copied in.
+  - Questions around something not working correctly (reports dashboard) should be addressed to Shambo.
 
 - **MROP** - Any questions around MROP should be addressed to Brian Kough.
-
   - Questions around contracts copy in Andy Webster
   - Questions around something not working or functionality copy in Shambo.
 

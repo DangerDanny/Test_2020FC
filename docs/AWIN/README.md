@@ -19,7 +19,7 @@ Once provisioned, AWIN access is a ready-to-go solution that needs the end-user 
 
 ### Large or Enterprise Groups
 
-AW's authentication service, Auth0, provides a number of mechanisms depending on our customer’s requirements. Should a customer request to implement the following authentication methods, please reach out to Ken Laio, Rick Little & Dan Bejarano to start this process:
+AW's authentication service, Auth0, provides a number of mechanisms depending on our customer's requirements. Should a customer request to implement the following authentication methods, please reach out to Ken Laio, Rick Little & Dan Bejarano to start this process:
 
 ### Passwordless
 

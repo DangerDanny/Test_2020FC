@@ -2,7 +2,7 @@
 
 ## Objective of the Product
 
-Fleet Discovery covers current and historic fixed-wing and rotor civil airframes, including those in military roles.
+Fleet Discovery covers current and historic fixed-wing and rotor civil airframes, including military roles.
 The data is presented within a dashboard that separates different data sets and subsequent reports into tabs.
 This module also brings Adhoc report-building capabilities and a bespoke API.
 
@@ -37,7 +37,7 @@ appears that has the export dropdown
 ### Operator Profile (Fleet)
 
 - Headline numbers to instantly show current fleet by status
-- Fleet breakout by aircraft group, owned vs. leased, on order & on option
+- Fleet breakout by aircraft group, owned vs. leased, on-order & on-option
 - Valuations from our partner Avitas
 - Drill in reports (from tables, graphs) to more detailed fleet reports, to tail/serials number
 - Filters for both Consolidated (large parent company) Lessor and Individual Registered Owner
@@ -49,12 +49,12 @@ appears that has the export dropdown
 
 ### Financial/Lessor Fleet
 Financial/Lessor Fleet at a Glance
-Presents fleet by consolidated owner/lessor and/or owner/lessor
+Presents fleet by consolidated owner/lessor and owner/lessor
 Headline numbers to instantly show current fleet by status
 Includes:
 - Pie chart to view in-service fleet by region
 - Bar charts to view Fleet by Manufacturer and Operational Status
-- Bar charts to view fleet on order/on option by manufacturer
+- Bar charts to view fleet on-order/on-option by manufacturer
 - Table of Financial/Lessor Fleet Details
 - Valuations provided by Avitas
 
@@ -74,7 +74,7 @@ snapshot
 - Presents current parked fleet
 - Current view only. We do not track historical parked data
 - Parked is down for seven days or more typically less than 90 as that is stored
-- Parked/Reserve is down for seven days, but in that seven days, it flew for 1 or 2 days, so still operating but not at normal capacity
+- Parked/Reserve is down for seven days, but in that seven days, it flew for 1 or 2 days, so still operating but not at an average capacity
 -Air Transport tab is filtered to only Scheduled, Non-Scheduled, Cargo operators
 - Includes:
     - parked aircraft by top 10 aircraft groups
@@ -92,8 +92,8 @@ snapshot
 
 - Looking at current aircraft that are on order (firm order)
 - Breakouts firm orders with the expected delivery date
-- It should be noted that in Fleet Discovery it does not count the number of engines; it counts the number of aircraft with a specific engine on it
-- Updated regular numbers will continue to be added as new orders are placed, deferrals are happening, and as deliveries happen.
+- Fleet Discovery does not count the number of engines; it counts the number of aircraft with a specific engine on it
+Updated regular numbers will continue to be added as new orders are being placed and when deferrals and deliveries are happening.
 - Includes:
 
 ### Deliveries/Retirements
@@ -106,14 +106,14 @@ snapshot
 ### Individual Aircraft
 
 - Allows for one aircraft to be looked at a time by serial or registration number
-- Includes all key current information, including age, status, owner, operator, seats, utilization, tech specs.
+- Includes all critical current information, including age, status, owner, operator, seats, utilization, tech specs.
 - Valuations current and historical
-- Aircraft's full history from everything that has happened to that aircraft, tracking all the events (i.e., delivered, sold, subleased, re-registered, retired)
+- Aircraft's complete history from everything that has happened to that aircraft, tracking all the events (i.e., delivered, sold, subleased, re-registered, retired)
 
 ### Historical Utilization
 
 - OEM Reported Hours & Cycle Data - OEM reported is an opt-in reporting that the
-airlines can choose if they want to provide data. This means not every airline reports this
+airlines can choose if they want to provide data; this means not every airline reports this
 data and can mean it is not always reported consistently.
 - Shows current operator, MFR date, tail number, reported month/year
 - Cumulative hours and cycles
