@@ -23,7 +23,7 @@ Support should not expect sales to create any tasks for them on a new account
 
 - Support should run an SF report every two weeks to ensure all accounts are caught. This report shows all verbal orders, closed-won accounts by month
 
-- Set up Google Spreadsheet to show support tracking. This is designed to help with transparency and an overview of what needs to be done. The spreadsheet shows when calls for customers will be placed and tracked as they are complete. Delivering two-week call/welcome email 3-month/6-month/9-month check-ins
+- Set up a Google Spreadsheet to show support tracking. This is designed to help with transparency and an overview of what needs to be done. The spreadsheet shows when calls for customers will be placed and tracked as they are complete. Delivering two-week call/welcome email 3-month/6-month/9-month check-ins
 
   - If support (personal preference) likes, they may also set up personal tasks in SF.
 
@@ -32,31 +32,34 @@ Support should not expect sales to create any tasks for them on a new account
 - Welcome emails (standard template to be used) should be sent. Timeframe of welcome emails does vary by-product:
   For any GoodData products, Tim will send out initial welcome emails, including contact info for support immediately.
 
-  - For AWIN individual users welcome email is sent from the system immediately.
-  - For AWIN if Group support should immediately send a welcome email with credentials.
-  - For GD users and individual AWIN users, support should send an additional welcome email at the 1 to 2-week mark. (Not earlier. This is to keep Avweek emails down upon first signing up/renewals)
+  - For AWIN individual users, the welcome email is sent from the system immediately.
+  - For in AWIN Group, support should immediately send a welcome email with credentials.
 
-- For AWIN, checks on set up in Drupal should be conducted at activation. Backend processing like invoicing should be followed up on if not complete at activation. Support should check at the two-week mark and alert Sarah/Account team if not complete (follow up until done).
+  ::: tip Note
+  For GD users and individual AWIN users, support should send an additional welcome email at the 1 to 2-week mark.
+  This is to keep Avweek emails down upon first signing up/renewals.
+  :::
+
+- For AWIN, checks on set up in Drupal should be conducted at activation. Support should check at the two-week mark and alert Sarah/Account team if not complete (follow up until done). Backend processing like invoicing should be followed up on if not complete at activation. 
 
 - Three-month check-ins should be conducted for all customers. Standardized emails to be used should be sent to all end users. Calls should be placed when numbers are available.
 
-- Audits (starting Jan 2022) to be conducted. Support to review the SF op, look at the user list, and see what users are active in all products. Ensure these align, look at usage, and overview of any issues. Provide traffic light assessment for renewal (Red, Yellow, Green) speak with the sales rep for an action plan for the second half of their account.
+- Audits at the 6-month check ins (starting Jan 2022) should be conducted. Support to review the SF op, look at the user list, and see what users are active in all products. Ensure these align, look at usage, and overview of any issues. Provide traffic light assessment for renewal (Red, Yellow, Green) speak with the sales rep for an action plan for the second half of their account.
 
 ## End-user Support
 
 - For customers reaching out with any questions or issues:
 
-  - Support will work internally to solve/answer any question or issue before escalating to any additional teams.
+  -  All support should address any customer questions/issues internally together before escalating to any other teams. Please make sure to reach out to support product specialists:
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GoodData Products – [Brittany Hill](mailto:Brittany.hill@aviationweek.com)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWIN – [Dan Bejarano](mailto:danb@aviationaero.com)
+
   - Support will track issues in SF cases
   - Support will log all emails and responses to the SF Account/Opportunity
   - If escalation needs to occur, please follow the escalation document to product owners (see [Escalating Questions around Products](/#escalating-questions-around-products))
 
-- All support should address any customer questions/issues internally together before escalating to any other teams. Please make sure to reach out to support product specialists:
-
-  - GoodData Products – [Brittany Hill](mailto:Brittany.hill@aviationweek.com)
-  - AWIN – [Dan Bejarano](mailto:danb@aviationaero.com)
-
-- AWIN password & access issues should be first addressed by support. Support can reset passwords and verify the customer access level. Dan B can also assist in troubleshooting IP enterprise access issues regarding third-party solutions (OpenAthens, EZProxy, etc.)
+- AWIN password & access issues should be first addressed by support. Support can reset passwords and verify the customer access level. [Dan B](mailto:danb@aviationaero.com) can also assist in troubleshooting IP enterprise access issues regarding third-party solutions (OpenAthens, EZProxy, etc.)
 
 ### Escalating Questions around Products
 

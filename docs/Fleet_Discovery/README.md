@@ -2,13 +2,13 @@
 
 ## Objective of the Product
 
-Fleet Discovery covers current and historic fixed-wing and rotor civil airframes, including military roles.
+Fleet Discovery covers current and historic fixed-wing and rotor civil airframes, including those in military roles.
 The data is presented within a dashboard that separates different data sets and subsequent reports into tabs.
 This module also brings Adhoc report-building capabilities and a bespoke API.
 
 ## Access/Authentication
 
-Access at https://fleet.aviationweek.com/
+Access at [fleet.aviationweek.com](https://fleet.aviationweek.com/)
 
 ## Scope
 
@@ -28,24 +28,32 @@ Daily
 
 Each tab has filters at the top of the page to narrow the reporting by region, aircraft, engine, operator, etc.
 
-- Filters stay applied going across tabs where possible
+- Filters stay applied going across tabs where possible.
 
-Every report is exportable to either PDF, Excel, or CSV
+- Every report is exportable to either PDF, Excel, or CSV.
 - Hover over the middle of the report, and at the top of the report, a circle
-appears that has the export dropdown
+appears that has the export dropdown.
 
 ### Operator Profile (Fleet)
 
-- Headline numbers to instantly show current fleet by status
-- Fleet breakout by aircraft group, owned vs. leased, on-order & on-option
-- Valuations from our partner Avitas
-- Drill in reports (from tables, graphs) to more detailed fleet reports, to tail/serials number
-- Filters for both Consolidated (large parent company) Lessor and Individual Registered Owner
-- Headline numbers, breaking out the fleet status, included drill-downs for more detailed reporting
-- Valuations powered by Avitas
-- Down to tail/serial number level data
+- Headline numbers to instantly show current fleet by status.
+- Fleet breakout by aircraft group, owned vs. leased, on-order & on-option.
+- Valuations from our partner Avitas.
+- Drill in reports (from tables, graphs) to more detailed fleet reports, to tail/serials number..
+- Filters for both Consolidated (large parent company) Lessor and Individual Registered Owner.
+- Headline numbers, breaking out the fleet status, included drill-downs for more detailed reporting.
+- Valuations powered by Avitas.
+- Down to tail/serial number level data.
 
 ### Aircraft/Engine Profile
+- Similar to Operator & Owner profiles but for an airframe, it Gives a
+snapshot
+- Has additional filters like Aircraft Category, Airframe, & Engines
+- Has bar charts for Top 10 Operators/Lessors by In-Service Fleet
+- Visualizations in charts/graphs with the ability to drill in for more detailed reports
+- For engines, it does not count the number of engines; it counts the number of aircraft with that engine on it
+- In-Service Fleet
+- Valuations powered by Avitas
 
 ### Financial/Lessor Fleet
 Financial/Lessor Fleet at a Glance
@@ -57,16 +65,6 @@ Includes:
 - Bar charts to view fleet on-order/on-option by manufacturer
 - Table of Financial/Lessor Fleet Details
 - Valuations provided by Avitas
-
-### Aircraft/Engine Profile
-- Similar to Operator & Owner profiles but for an airframe, it Gives a
-snapshot
-- Has additional filters like Aircraft Category, Airframe, & Engines
-- Has bar charts for Top 10 Operators/Lessors by In-Service Fleet
-- Visualizations in charts/graphs with the ability to drill in for more detailed reports
-- For engines, it does not count the number of engines; it counts the number of aircraft with that engine on it
-- In-Service Fleet
-- Valuations powered by Avitas
 
 ### Parked Fleet
 
