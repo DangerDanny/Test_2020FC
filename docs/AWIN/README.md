@@ -79,7 +79,7 @@ All active sessions will automatically log out after fourteen days (20160 minute
 | Aviation Week & Space Technology     | X       | X          | X                   |                   |
 | AW&ST - MRO Edition / Inside MRO     | X       | X          | X                   |                   |
 | Aerospace Daily & Defense Report     | X       |            | X                   |                   |
-| Aviation Daily                       | X       |            | X                   |                   |
+| Aviation Daily                       | X       | X          |                    |                   |
 | Advanced Air Mobility Report         | X       |            |                     |                   |
 | SpeedNews                            | X       | X          |                     |                   |
 | The Weekly Of Business Aviation      | X       |            |                     | X                 |
