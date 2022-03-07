@@ -20,7 +20,7 @@ Important notes:
 - As an example of role assignment by subscription or bundle, a 2subscriber to AWIN Premium effectively gets all roles so nothing that is restricted by role will be inaccessible to them.  A subscriber to Aviation Week & Space Technology only gets the AWST role so they can see freemium content, and anything gated as Aviation Week & Space technology within the last year.
 - We have open ticket to consolidate AVC, AVW, AVZ and AST into AWST.
 
-
+## Roles & Access
 | Roles        | Access |
 | ------------ | ------ |
 | AWST         |this role represents digital access to Aviation Week & Space Technology articles published within the last 365 days (rolling).  It also includes access to the Aviation Week & Space Technology archive.|
