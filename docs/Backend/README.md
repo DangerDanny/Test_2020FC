@@ -1,6 +1,7 @@
 # Backend
 
-## Drupal (AWIN & Publications)
+## Drupal (AWIN & AW's Publications)
+The aim of this section is to provide the user with the definitions found within the scope of AWIN's backend (Drupal). It is specifically regarding provisioning access to AW's publications and the AWIN data tool.
 
 ### Role
 Gives a user permission to view content from specific content sources and/or permission to access restricted pages. (e.g., AWST or AWIN)
@@ -16,7 +17,7 @@ Important notes:
 - A user can have multiple bundled products 
 - When a user has multiple AWIN bundled products there is a hierarchy that kicks in that gives them the highest-level access they can get based on the bundles in their account and selects the highest-level dashboard as their homepage.  For example, if a user has AWIN Premium, AWIN Military and Aviation Daily, they will get access to everything because of the AWIN Premium and will start at the AWIN Premium dashboard even though AWIN Military and Aviation Daily each have a dashboard.
 - When a user has multiple AWIN bundles it is often because of migrated roles from previous applications.
-- As an example of role assignment by subscription or bundle, a subscriber to AWIN Premium effectively gets all roles so nothing that is restricted by role will be inaccessible to them.  A subscriber to Aviation Week & Space Technology only gets the AWST role so they can see freemium content, and anything gated as Aviation Week & Space technology within the last year.
+- As an example of role assignment by subscription or bundle, a 2subscriber to AWIN Premium effectively gets all roles so nothing that is restricted by role will be inaccessible to them.  A subscriber to Aviation Week & Space Technology only gets the AWST role so they can see freemium content, and anything gated as Aviation Week & Space technology within the last year.
 - We have open ticket to consolidate AVC, AVW, AVZ and AST into AWST.
 
 

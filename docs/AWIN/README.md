@@ -158,7 +158,7 @@ AWIN's RSS feeds match AWIN subscriptions packages are now available to customer
 Typically, a customer can integrate the RSS into their own browser, their Portal/Intranet, into an RSS Reader App.
 (there are hundreds, Feedly is great) or into their CRM.
 
-### Roles, Subscriptions & Bundled Groups
+<!-- ### Roles, Subscriptions & Bundled Groups
 
 Definitions:
 
@@ -237,4 +237,16 @@ This role represents our highest-level access, AWIN – Premium, and effectively
 This is a legacy role that was previously a standalone subscription.  Any content that was restricted to this role is accessible to AWIN Premium, Boeing AWIN – Premium, AWIN – Commercial and AWIN – Civil only.       
 
 ### MRP
-This is a legacy role that was previously a standalone subscription.  Any content that was restricted to this role is accessible to AWIN Premium, Boeing AWIN – Premium, AWIN – Commercial and AWIN – Civil only.        
+This is a legacy role that was previously a standalone subscription.  Any content that was restricted to this role is accessible to AWIN Premium, Boeing AWIN – Premium, AWIN – Commercial and AWIN – Civil only.     
+
+### ASD
+This role represents a subscription to Aerospace Daily & Defense Report. 
+
+### AVD
+This role represents a subscription to Aviation Daily.
+
+### BAV
+This role represents a subscription to The Weekly of Business Aviation.
+
+### SPNX
+This role represents a subscription to SpeedNews. -->
