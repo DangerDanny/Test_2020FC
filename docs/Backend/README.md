@@ -1,20 +1,15 @@
 # Backend
 
 ## Drupal (AWIN & Publications)
-// Definitions H@
-### Roles, Subscriptions, & Bundled Products
-// H3
+
+### Role
+Gives a user permission to view content from specific content sources and/or permission to access restricted pages. (e.g., AWST or AWIN)
 ### Subscription
 Paid or controlled access to all the content sources and data that are included with the subscription for a specified period (e.g., Aviation Week & Space Technology)
-/ /H3
+
 ### Bundled Products
 Paid access to a collection of subscriptions for a specified period (e.g., AWIN – Premium)
-// H3
-## Roles
-Gives a user permission to view content from specific content sources and/or permission to access restricted pages (e.g., AWST or AWIN)
-// H2
 
-// H2 Role definitions
 Important notes:
 - A user can have any number of roles that unlock content, data and views 
 - A user can have multiple subscriptions
