@@ -153,5 +153,5 @@ Access links:
 - Landing page: [https://aviationweek.com/advancedairmobilityreport](https://aviationweek.com/advancedairmobilityreport)
 
 ::: details Test Account Details
-username: **AAM@AWST.com** | password: AAM2021!
+username: **aam@awin.com** | password: aam2023!
 :::
