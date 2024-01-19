@@ -1,3 +1,0 @@
-# TAU
-
-## More coming soon

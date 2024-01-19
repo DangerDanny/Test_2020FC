@@ -1,3 +1,0 @@
-# Drupal
-
-## More coming soon
