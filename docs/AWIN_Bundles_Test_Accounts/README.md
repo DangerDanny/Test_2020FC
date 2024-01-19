@@ -1,6 +1,58 @@
-# AWIN Bundles and Test Accounts
+# AWIN Bundles, Publications, and Test Accounts
 
-## Aviation Week & Space Technology
+## AWIN Bundles
+
+### AWIN Premium
+
+Category: **Bundles**
+
+Access links:
+
+- Login page: [https://awin.aviationweek.com/AWST](https://awin.aviationweek.com/)
+
+::: details Test Account Details
+username: **awnextgen11@informa.com** | password: AWIN!
+:::
+
+### AWIN Civil
+
+Category: **Bundles**
+
+Access links:
+
+- Login page: [https://awin.aviationweek.com/AWST](https://awin.aviationweek.com/)
+
+::: details Test Account Details
+username: **awnextgen105@informa.com** | password: AWIN!
+:::
+
+### AWIN Military / Aerospace and Defense
+
+Category: **Bundles**
+
+Access links:
+
+- Login page: [https://awin.aviationweek.com/AWST](https://awin.aviationweek.com/)
+
+::: details Test Account Details
+username: **awnextgen102@gmail.com** | password: AWIN!
+:::
+
+### AWIN Business
+
+Category: **Bundles**
+
+Access links:
+
+- Login page: [https://awin.aviationweek.com/AWST](https://awin.aviationweek.com/)
+
+::: details Test Account Details
+username: **awnextgen02@gmail.com** | password: AWIN!
+:::
+
+## Aviation Week's Publication Profilo
+
+### Aviation Week & Space Technology
 
 Category: **Magazine**
 
@@ -17,7 +69,7 @@ Access links:
 username: **AWST@AWIN.com** | password: AWIN2021!
 :::
 
-## Air Transport World
+### Air Transport World
 
 Category: **Magazine**
 
@@ -30,7 +82,7 @@ Access links:
 - Online publication: [https://aviationweek.com/magazine-publications?source=1151](https://aviationweek.com/magazine-publications?source=1151)
 - Archive/library: [https://www.atw-digital.com/airtransportworld/library/](https://www.atw-digital.com/airtransportworld/library/)
 
-## Aviation Daily
+### Aviation Daily
 
 Category: **Market Briefing**
 
@@ -45,7 +97,7 @@ Access links:
 username: **avdpenton@gmail.com** | password: Penton123
 :::
 
-## **Aerospace Daily & Defense Report**
+### Aerospace Daily & Defense Report
 
 Category: **Market Briefing**
 
@@ -60,7 +112,7 @@ Access links:
 username: **asdpenton@gmail.com** | password: Penton123
 :::
 
-## SpeedNews
+### SpeedNews
 
 Category: **Market Briefing**
 
@@ -75,7 +127,7 @@ Access links:
 username: **spnpenton@gmail.com** | password: Penton123
 :::
 
-## The Weekly of Business Aviation
+### The Weekly of Business Aviation
 
 Category: **Market Briefing**
 
@@ -89,7 +141,7 @@ Access links:
 username: **bavpenton@gmail.com** | password: Penton123
 :::
 
-## Advanced Air Mobility
+### Advanced Air Mobility
 
 Category: **Market Briefing**
 
